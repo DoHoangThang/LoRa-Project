@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="app_theme">#009dff</color>
+    <color name="app_theme_light">#f6fbff</color>
+    <color name="edit_text_border">#03a9f4</color>
+    <color name="edit_text_background">#f6fbff</color>
+    <color name="lavender">#8692f7</color>
+    <color name="hopthoai">#0073FF</color>
+    <color name="yellow">#FFD000</color>
+</resources>

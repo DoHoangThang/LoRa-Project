@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85555223573",
+    "project_id": "he-thong-lora",
+    "storage_bucket": "he-thong-lora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85555223573:android:e6c03985f387a2d6b3021c",
+        "android_client_info": {
+          "package_name": "com.example.hethonglora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPatOJbEdgsEh_iIQltWdEHOsqS4wkbBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

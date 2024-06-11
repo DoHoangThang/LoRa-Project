@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=TFT1-
+Removed Pin From Net: NetName=GND Pin=TFT1-
+Removed Pin From Net: NetName=GND Pin=TFT1-
+Change Component Footprint: Designator=LED2 Old Footprint=LED-5-Green New Footprint=LED-3MM-BLUE
+Change Component Comment : Designator=LED2 Old Comment=LED GREEN New Comment=LED

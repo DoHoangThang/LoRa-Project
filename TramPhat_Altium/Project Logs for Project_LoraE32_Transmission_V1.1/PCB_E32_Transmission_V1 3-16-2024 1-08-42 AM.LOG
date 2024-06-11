@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=S1
+Added Member To Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Component SW1 Switch

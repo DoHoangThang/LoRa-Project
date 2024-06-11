@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C1 Old Footprint=C10mm New Footprint=CAP-ALU-SMD-G
+Change Component Footprint: Designator=C2 Old Footprint=C10mm New Footprint=CAP-ALU-SMD-G
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component C1 1000uF/16V
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component C2 1000uF/16V
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component C3 100nF
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component C4 100nF
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component LED1 LED
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component LED2 LED
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component LS1 Buzzer
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component R1 330R
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component R2 10k
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component R3 330R
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component R4 10k
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component S2 Switch
+Added Member To Class: ClassName=Sheet_LoraE32_Receive_V1.0 Member=Component SW1 SW DIP-2

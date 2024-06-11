@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=CB2-1
+Removed Pin From Net: NetName=5V Pin=CB2-2
+Removed Pin From Net: NetName=A2 Pin=CB2-3
+Removed Pin From Net: NetName=GND Pin=CB3-1
+Removed Pin From Net: NetName=5V Pin=CB3-2
+Removed Pin From Net: NetName=A3 Pin=CB3-3
+Removed Pin From Net: NetName=GND Pin=CB4-1
+Removed Pin From Net: NetName=5V Pin=CB4-2
+Removed Pin From Net: NetName=A4 Pin=CB4-3
+Removed Pin From Net: NetName=A5 Pin=CB5-4
+Removed Member From Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=CB3
+Removed Member From Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=CB4
+Removed Member From Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=CB5
+Change Component Designator: OldDesignator=CB5 NewDesignator=CB2
+Added Pin To Net: NetName=A2 Pin=CB2-4

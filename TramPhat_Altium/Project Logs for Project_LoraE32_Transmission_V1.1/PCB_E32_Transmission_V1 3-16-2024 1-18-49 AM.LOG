@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=5V Pin=Arduino1-5V
+Removed Pin From Net: NetName=A0 Pin=Arduino1-A0
+Removed Pin From Net: NetName=A1_Vol Pin=Arduino1-A1
+Removed Pin From Net: NetName=A2 Pin=Arduino1-A2
+Removed Pin From Net: NetName=RX Pin=Arduino1-D2
+Removed Pin From Net: NetName=TX Pin=Arduino1-D3
+Removed Pin From Net: NetName=DATA Pin=Arduino1-D6
+Removed Pin From Net: NetName=LED Pin=Arduino1-D10
+Removed Pin From Net: NetName=GND Pin=Arduino1-GND
+Removed Pin From Net: NetName=GND Pin=Arduino1-GND
+Removed Pin From Net: NetName=VCC Pin=Arduino1-VIN
+Removed Member From Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Arduino1
+Added Component: Designator=IC1(Arduino Nano_2)
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=RX Pin=IC1-5
+Added Pin To Net: NetName=TX Pin=IC1-6
+Added Pin To Net: NetName=DATA Pin=IC1-9
+Added Pin To Net: NetName=LED Pin=IC1-13
+Added Pin To Net: NetName=A0 Pin=IC1-19
+Added Pin To Net: NetName=A1_Vol Pin=IC1-20
+Added Pin To Net: NetName=A2 Pin=IC1-21
+Added Pin To Net: NetName=5V Pin=IC1-27
+Added Pin To Net: NetName=GND Pin=IC1-29
+Added Pin To Net: NetName=VCC Pin=IC1-30
+Added Member To Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Component IC1 Arduino Nano
+Added Member To Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Component SW1 Switch

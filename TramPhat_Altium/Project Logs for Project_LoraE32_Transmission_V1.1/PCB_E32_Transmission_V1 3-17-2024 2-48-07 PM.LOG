@@ -1,0 +1,5 @@
+Change Component Comment : Designator=CB1 Old Comment=Header3 New Comment=CB DAT
+Change Component Comment : Designator=CB2 Old Comment=Header4 New Comment=CB BUI
+Added Pin To Net: NetName=A1 Pin=Arduino1-A1
+Added Pin To Net: NetName=A1 Pin=CB2-4
+Added Net: Name=A1

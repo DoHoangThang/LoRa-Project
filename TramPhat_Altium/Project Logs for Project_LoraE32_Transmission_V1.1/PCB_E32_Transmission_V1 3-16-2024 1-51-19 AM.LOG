@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=VCC Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-4
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=IC1-4
+Removed Pin From Net: NetName=RX Pin=IC1-5
+Removed Pin From Net: NetName=TX Pin=IC1-6
+Removed Pin From Net: NetName=DATA Pin=IC1-9
+Removed Pin From Net: NetName=LED Pin=IC1-13
+Removed Pin From Net: NetName=A0 Pin=IC1-19
+Removed Pin From Net: NetName=A1_Vol Pin=IC1-20
+Removed Pin From Net: NetName=A2 Pin=IC1-21
+Removed Pin From Net: NetName=5V Pin=IC1-27
+Removed Pin From Net: NetName=GND Pin=IC1-29
+Removed Pin From Net: NetName=VCC Pin=IC1-30
+Removed Pin From Net: NetName=NetL1_1 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetL1_2 Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=A1_Vol Pin=R4-1
+Removed Member From Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=IC1
+Change Component Footprint: Designator=B1 Old Footprint=PCB_Boost 2A New Footprint=Boost MT3608
+Change Component Footprint: Designator=R1 Old Footprint=RES-SMD-1206 New Footprint=R1/4W
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-1206 New Footprint=R1/4W
+Change Component Footprint: Designator=R4 Old Footprint=RES-SMD-1206 New Footprint=R1/4W
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=Res1
+Change Component Comment : Designator=R4 Old Comment=100R New Comment=Res1
+Change Component Comment : Designator=B1 Old Comment=Boost 2A New Comment=Boost MT3608
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-SMD-1206"; UniqueID = "\FCEYUAAU" ("\FCEYUAAU")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-SMD-1206"; UniqueID = "\AJTPRIKB" ("\AJTPRIKB")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RES-SMD-1206"; UniqueID = "\VOYISARZ" ("\VOYISARZ")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=Arduino1(Arduino Nano)
+Add component (AddParameter): Name = "Value"; Value = "Cau 1A"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1/4W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=Arduino1-5V
+Added Pin To Net: NetName=A0 Pin=Arduino1-A0
+Added Pin To Net: NetName=A1_Vol Pin=Arduino1-A1
+Added Pin To Net: NetName=A2 Pin=Arduino1-A2
+Added Pin To Net: NetName=RX Pin=Arduino1-D2
+Added Pin To Net: NetName=TX Pin=Arduino1-D3
+Added Pin To Net: NetName=DATA Pin=Arduino1-D6
+Added Pin To Net: NetName=LED Pin=Arduino1-D10
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=GND Pin=Arduino1-GND
+Added Pin To Net: NetName=VCC Pin=Arduino1-VIN
+Added Pin To Net: NetName=VCC Pin=B1-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetL1_2 Pin=R2-2
+Added Pin To Net: NetName=A1_Vol Pin=R4-2
+Added Pin To Net: NetName=DATA Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=R4-1
+Added Pin To Net: NetName=NetB1_1 Pin=SW1-3
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=C1-1
+Added Net: Name=NetB1_2
+Added Member To Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Component Arduino1 Arduino Nano
+Added Member To Class: ClassName=Sheet_LoraE32_Transmission_V1.1 Member=Component R? Res1

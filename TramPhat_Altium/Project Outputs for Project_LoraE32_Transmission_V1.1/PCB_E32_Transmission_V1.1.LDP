@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\DA1\Phan_cung\to-nguon - Copy\PCB_E32_Transmission_V1.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_e32_transmission_v1.1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_e32_transmission_v1.1-slotholes.txt|DrillLayers=gtl,gbl
